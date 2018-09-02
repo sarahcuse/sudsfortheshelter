@@ -1,0 +1,55 @@
+# Site settings
+baseURL = "//example.org"
+languageCode = "en-US"
+title = "Split - HTML Template Demo"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2018 Sarah Wright"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Jenny Jones"
+  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/siteflier.jpg"
+
+  # Links
+  #
+  # Links List
+  [[params.links]]
+    [params.links.list3]
+      heading = "Learn More"
+
+      [[params.links.list3.link]]
+        text = "Rescue Mission"
+        url = "https://rescuemissionalliance.org/syracuse-about/"
+
+      [[params.links.list3.link]]
+        text = "ACR Health"
+        url = "https://acrhealth.org/about"
+
+      [[params.links.list3.link]]
+        text = "CNY Freedom Makers"
+        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
