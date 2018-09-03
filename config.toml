@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "//focused-tereshkova-9f7d06.netlify.com"
+baseURL = "//sudsfortheshelter.com"
 languageCode = "en-US"
 title = "Suds For The Shelter"
 theme = "hugo-split-theme"
