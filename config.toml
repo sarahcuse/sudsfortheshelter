@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "//example.org"
+baseURL = "//focused-tereshkova-9f7d06.netlify.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Suds For The Shelter"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -14,8 +14,8 @@ copyright = "&copy;2018 Sarah Wright"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "Sarah Wright"
+  description = ""
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
