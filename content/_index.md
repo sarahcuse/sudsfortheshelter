@@ -1,7 +1,11 @@
 +++
-title = "CNY Freedom Makers"
-tagline = "Suds For The Shelter"
+title = "Join us at Seneca Street Brew Pub"
+tagline = "October 20th, 5PM to 9PM"
 +++
+
+<a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=rmsyr&id=218"><img src="images/button_donate-now.png" style="text-decoration: none;" width=164 height=40/></a> <a href="#"><img src="images/button_reserve-your-spot.png" style="text-decoration: none;" width=221 height=40/></a>
+
+<img src="images/Youth Shelter medium.jpg" width=500 height=185/>
 
 Roughly 40% of the youth experiencing homelessness identify as LGBTQ, with the number one reason they experience homelessness being family rejection of their sexual orientation or gender identity.
 

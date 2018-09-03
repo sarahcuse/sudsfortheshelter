@@ -34,21 +34,24 @@ copyright = "&copy;2018 Sarah Wright"
   #
   # Links List
   [[params.links]]
-    [params.links.list3]
+    [params.links.list4]
       heading = "Learn More"
 
-      [[params.links.list3.link]]
+      [[params.links.list4.link]]
         text = "Rescue Mission"
         url = "https://rescuemissionalliance.org/syracuse-about/"
 
-      [[params.links.list3.link]]
+      [[params.links.list4.link]]
         text = "ACR Health"
         url = "https://acrhealth.org/about"
 
-      [[params.links.list3.link]]
+      [[params.links.list4.link]]
         text = "CNY Freedom Makers"
         url = "#"
 
+     [[params.links.list4.link]]
+        text = "Seneca Street Brew Pub"
+        url = "https://senecastreetbrewpub.com/"
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
