@@ -1,6 +1,6 @@
 +++
 title = "Join us at Seneca Street Brew Pub"
-tagline = "October 20th, 5PM to 9PM"
+tagline = "November 3rd, 5PM to 9PM"
 +++
 
 <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=rmsyr&id=218"><img src="images/button_donate-now.png" style="text-decoration: none;" width=164 height=40/></a>
