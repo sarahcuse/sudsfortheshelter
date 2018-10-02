@@ -4,8 +4,10 @@ tagline = "November 3rd, 5PM to 9PM"
 +++
 
 <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=rmsyr&id=218"><img src="images/button_donate-now.png" style="text-decoration: none;" width=164 height=40/></a>
+<a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=rmsyr&id=227"><img src="images/button_reserve-your-spot.png" style="text-decoration: none;" width=221 height=40/></a>
 
-Donate now and your your donation will be matched up to $5,000 by a generous anonymous donor!
+
+Donate or register now and your donation will be matched up to $5,000 by a generous anonymous donor!
 <BR><i>All donations are tax deductible and go directly to the Rescue Mission for the youth shelter!</i>
 
 <img src="images/Youth Shelter medium.jpg" width=500 height=185/>
